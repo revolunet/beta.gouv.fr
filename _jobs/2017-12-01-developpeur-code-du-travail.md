@@ -10,16 +10,20 @@ Et si on rendait le droit du travail plus lisible ?!
 
 <!--more-->
 
-On recherche un·e développeur·e pour créer le [code du travail numérique](https://beta.gouv.fr/startup/codedutravail.html). L'objectif de cette Start-up d'État est d'améliorer l'accès au droit du travail, de le rendre compréhensible pour les personnes qu'il concerne : les employeurs et les salariés.
+On recherche un·e développeur·e pour créer le [code du travail numérique](https://beta.gouv.fr/startup/codedutravail.html). L'objectif de cette Start-up d'État est d'améliorer l'accès au droit du travail, et de le rendre compréhensible pour les personnes qu'il concerne : les employeurs et les salariés.
 
-Il s'agit dans un premier temps de comprendre les principales questions que se posent employés et employeurs quant à leurs droits et devoirs dans le cadre d'un contrat de travail.
-Pour cela il faut savoir quelle est la source de droit applicable, quelles dispositions s'appliquent au cas particulier de notre utilisateur, et lui donner une réponse claire : soit rendre le droit executable !
+Il s'agit de travailler avec nos experts du droit du travail pour enrichir et améliorer notre prototype actuel, basé sur ElasticSearch et un frontend Javascript (React) : https://codedutravail.num.social.gouv.fr
+
+Plusieurs pistes sont à explorer pour aller plus loin : intégrer de nouvelles sources de données, améliorer la pertinence des résultats, intégrer des outils tiers, améliorer l'UX...
 
 Au vu de la technicité du sujet et du challenge à relever, nous sommes à la recherche d'une personne particulièrement intéressée à la matière qu'est le droit, et particulièrement le droit du travail.
 
+Lauréat du programme [entrepreneurs d'intérêt général](http://entrepreneur-interet-general.etalab.gouv.fr/), le code du travail numérique bénéficiera également de l'expertise de deux data-scientists à partir de début 2019, lesquels apporteront leur savoir-faire sur les aspects traitement du language et machine-learning pour enrichir nos données et mieux comprendre les questions des usagers.
+
 ## Rôle
 
-Membre d'une petite équipe autonome, vous serez embarqué dans les phases de recherche utilisateurs et chargé de construire (from scratch) le service pour les usagers.
+Membre d'une petite équipe autonome, vous serez embarqué dans les phases de recherche utilisateurs et chargé de construire le service pour les usagers.
+
 Vous serez libre du choix de la stack technique parmi les solutions libres du marché, en concertation avec le Tech Lead de l'Incubateur des Affaires sociales.
 
 Vous serez en charge des développements de l’administration système au CSS, en passant par la mise en place des outils de déploiement, d’intégration continue, de tests et de monitoring.
